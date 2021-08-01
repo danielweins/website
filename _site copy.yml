@@ -1,0 +1,20 @@
+name: "Daniel Weinstein"
+output_dir: "."
+navbar:
+  title: "My Beautiful Websites"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index copy.html
+    - text: "Geography 13"
+      icon: fa-map-o
+      href: geog13.html
+    - text: "Experience and Education"
+      icon: fa-pencil
+      href: resume.html
+    - text: "About Me"
+      icon: fa-angle-double-right
+      href: aboutme.rmd
+output:
+  html_document:
+    theme: simplex

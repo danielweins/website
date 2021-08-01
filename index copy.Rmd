@@ -1,0 +1,13 @@
+---
+title: "Geography 13"
+---
+  
+<center>
+# Nice to meet you! <i class="fa fa-handshake-o fa-0.5x" style="color:maroon;"></i>
+</center>
+  
+I'm a second year student at UC Santa Barbara, studying [Geography](https://www.geog.ucsb.edu/) with emphasis in Geographic Information Science. In my free time you can find me wandering down a YouTube black hole or playing the piano. 
+
+I am currently working with the program R and learning how to create projects such as this one. With internet connectivity issues and other technical complications (and admittedly, my own lack of understanding), it hasn't come easy so far. Despite these issues, I've been able to successfully program spatial data sets so that they can be organized to my liking on a table, plotted graph, and on a map! This type of geographic analysis through coding is particularly useful because it is applicable in a wide variety of fields, and offers a glimpse into real-world hypotheses that can be created, analyzed, and spatially aggregated.  
+
+
